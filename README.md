@@ -15,7 +15,8 @@ Araçların ne zaman girdiklerini ve çıktıklarını görüntüleyebilir, otop
 Günlük, haftalık, aylık ve yıllık ciro bilgilerine ulaşılabilir.
 İşletme sahipleri otopark alanının güncel kapasitesini güncelleybilir ve görüntüleybilir.
 
-Aşşağıda ilgili uygulamanın arayüzü mevcuttur.
+
+
 
 
 
